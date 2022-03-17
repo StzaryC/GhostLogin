@@ -26,7 +26,7 @@ if (input.value === "Stzary"){
     input.value=""
     access();
 }
-  if (input.value === "04022022"){
+  if (input.value === "ImHuman"){
     layout_three.classList.add("passState")
     // input.value=""
     ok_sound.play(); 
